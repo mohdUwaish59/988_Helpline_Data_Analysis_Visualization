@@ -34,11 +34,13 @@ the data in an informative way.
 ### States-wise HDI vs Suicide Rates
 
 This section explores the relationship between Human Development Index (HDI) and suicide rates in different states. It uses a bubble plot to visualize the data.
+
 ![My Project Logo](Results/2.png)
 
 ### Suicide Helpline Answer Rates vs Suicide Rates
 
 This section examines the answer rates of the suicide helpline and their correlation with suicide rates. It includes interactive widgets for exploring this relationship on a month-by-month basis.
+
 ![My Project Logo](Results/3.png)
 
 ### ASA vs Abandoned Calls
