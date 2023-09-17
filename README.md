@@ -26,46 +26,51 @@ American society, particularly on marginalized communities.
 ### Suicide Rate Analysis for 2021 and 2022
 
 The project includes visualizations and analyses of suicide rates in the United States for the years 2021 and 2022. It identifies states with the highest and lowest suicide rates and presents 
-the data in an informative way.
+the data in an informative way.  
 
 ![My Project Logo](Results/1.png)
 
 
 ### States-wise HDI vs Suicide Rates
 
-This section explores the relationship between Human Development Index (HDI) and suicide rates in different states. It uses a bubble plot to visualize the data.
+This section explores the relationship between Human Development Index (HDI) and suicide rates in different states. It uses a bubble plot to visualize the data.  
 
 ![My Project Logo](Results/2.png)
 
 ### Suicide Helpline Answer Rates vs Suicide Rates
 
-This section examines the answer rates of the suicide helpline and their correlation with suicide rates. It includes interactive widgets for exploring this relationship on a month-by-month basis.
+This section examines the answer rates of the suicide helpline and their correlation with suicide rates. It includes interactive widgets for exploring this relationship on a month-by-month basis.  
 
 ![My Project Logo](Results/3.png)
 
 ### ASA vs Abandoned Calls
 
-This section analyzes Average Speed of Answer (ASA) and abandoned call statistics. It visualizes the relationship between these metrics using scatter plots.
+This section analyzes Average Speed of Answer (ASA) and abandoned call statistics. It visualizes the relationship between these metrics using scatter plots.  
+
 ![My Project Logo](Results/4.png)
 
 ### Talktime vs Number of Calls
 
-The project investigates the relationship between talk time and the number of calls received. It includes statistics and scatter plots to help understand this relationship.
+The project investigates the relationship between talk time and the number of calls received. It includes statistics and scatter plots to help understand this relationship.  
+
 ![My Project Logo](Results/5.png)
 
 ### States-wise Backup Calls
 
-This section explores the number of backup calls in different states. It includes choropleth maps to visualize backup call data.
+This section explores the number of backup calls in different states. It includes choropleth maps to visualize backup call data.  
+
 ![My Project Logo](Results/6.png)
 
 ### States-wise Talktime Month by Month
 
-The project analyzes talk time month by month and visualizes it on a map. It allows users to select a specific month for analysis.
+The project analyzes talk time month by month and visualizes it on a map. It allows users to select a specific month for analysis.  
+
 ![My Project Logo](Results/7.png)
 
 ### Proportional Map of Received Calls to Backup
 
-This section provides a proportional map showing the percentage of received calls that go to backup. It visualizes this data on a map for different datasets.
+This section provides a proportional map showing the percentage of received calls that go to backup. It visualizes this data on a map for different datasets.  
+
 ![My Project Logo](Results/8.png)
 
 ### Biplot of ASA vs Backup Calls
