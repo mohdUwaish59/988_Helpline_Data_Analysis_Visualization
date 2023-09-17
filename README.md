@@ -28,6 +28,8 @@ American society, particularly on marginalized communities.
 The project includes visualizations and analyses of suicide rates in the United States for the years 2021 and 2022. It identifies states with the highest and lowest suicide rates and presents 
 the data in an informative way.
 
+![My Project Logo](Results/1.png)
+
 ### States-wise HDI vs Suicide Rates
 
 This section explores the relationship between Human Development Index (HDI) and suicide rates in different states. It uses a bubble plot to visualize the data.
