@@ -28,7 +28,8 @@ American society, particularly on marginalized communities.
 The project includes visualizations and analyses of suicide rates in the United States for the years 2021 and 2022. It identifies states with the highest and lowest suicide rates and presents 
 the data in an informative way.
 
-![My Project Logo](Results/1.png)
+<img src="Results/1.png" alt="My Project Logo" width="200" height="200">
+
 
 ### States-wise HDI vs Suicide Rates
 
