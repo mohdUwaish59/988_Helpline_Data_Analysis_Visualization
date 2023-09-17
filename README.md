@@ -29,6 +29,8 @@ The project includes visualizations and analyses of suicide rates in the United 
 the data in an informative way.
 
 <img src="Results/1.png" alt="My Project Logo" width="200" height="200">
+![My Project Logo](Results/1.png)
+
 
 
 ### States-wise HDI vs Suicide Rates
